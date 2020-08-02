@@ -1,0 +1,6 @@
+def simpleIntrest(p,r,t):
+  pass
+  pass
+  
+#main
+print(simpleIntrest(1000,10,20))
